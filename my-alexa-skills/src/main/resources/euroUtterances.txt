@@ -1,0 +1,9 @@
+CountryScheduleIntent what is the schedule for {Country}
+CountryScheduleIntent what is the schedule of {Country}
+CountryScheduleIntent what are the games for {Country}
+CountryScheduleIntent what are the games of {Country}
+CountryScheduleIntent what are the scheduled games for {Country}
+CountryScheduleIntent when is {Country} playing
+CountryScheduleIntent when is {Country} scheduled to play
+CountryScheduleIntent what are the matches for {Country}
+CountryScheduleIntent what are the matches scheduled for {Country}
